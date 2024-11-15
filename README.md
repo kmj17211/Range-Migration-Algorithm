@@ -2,7 +2,7 @@
 
 Texas Instruments AWR1642BOOST-ODS와 1m 레일을 결합한 SAR System
 
-![image](https://github.com/user-attachments/assets/bac3fd05-2d09-4c94-bda7-11d0bf0fdb0b)
+<img src="https://github.com/user-attachments/assets/bac3fd05-2d09-4c94-bda7-11d0bf0fdb0b" width="200"/>
 
 # Results
 ![image](https://github.com/user-attachments/assets/00ff80af-e8f8-4238-8f94-946bd570df29)
